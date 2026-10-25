@@ -16,6 +16,27 @@ I'm a DevOps and DevSecOps engineer based in Bangalore. I design and automate Az
 
 <img src="assets/stats.svg" alt="Career highlights" width="100%"/>
 
+  <img
+    src="https://img.shields.io/badge/Name-Sourabh%20Kumar-1f6feb?style=for-the-badge"
+    alt="Name: Sourabh Kumar"
+  />
+</a>
+<a href="#" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Experience-3%2B%20Years-2ea44f?style=for-the-badge"
+    alt="Experience: 3+ Years"
+  />
+</a>
+<a href="https://maps.google.com/?q=Bangalore,India" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-ff9933?style=for-the-badge" alt="Location: Bangalore, India" />
+</a>
+</p>
+
+- 🔭 Currently working on exciting projects that push the boundaries of what's possible
+- 🌱 Continuously learning and improving my skills in modern development practices
+- 💬 Happy to discuss tech, collaborate on projects, or share knowledge
+- ⚡ Fun fact: I believe great code is like great writing—clear, concise, and purposeful
+
 ## What I do
 
 - **Infrastructure as Code:** reusable Terraform modules for networking, compute, storage, security and application services on Azure.
