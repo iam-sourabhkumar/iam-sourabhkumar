@@ -12,7 +12,7 @@
 
 I'm a DevOps and DevSecOps engineer based in Bangalore. I design and automate Azure cloud infrastructure with Terraform, build CI/CD pipelines, and bring security checks into every stage of delivery. I started out as a web developer, which means I care about the people who actually use what we ship.
 
-<img src="assets/stats.svg" alt="Career highlights" width="100%"/>
+<img src="https://github.com/iam-sourabhkumar/iam-sourabhkumar/blob/main/stats.svg" alt="Career highlights" width="100%"/>
 
   <img
     src="https://img.shields.io/badge/Name-Sourabh%20Kumar-1f6feb?style=for-the-badge"
