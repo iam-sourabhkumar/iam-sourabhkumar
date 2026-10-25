@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/iam-sourabhkumar/iam-sourabhkumar/blob/main/banner.svg" alt="Sourabh Kumar, DevOps Engineer" width="100%"/>
+<img src="https://github.com/iam-sourabhkumar/iam-sourabhkumar/blob/main/Banners.png" alt="Sourabh Kumar, DevOps Engineer" width="100%"/>
 
 <br/>
 <br/>
