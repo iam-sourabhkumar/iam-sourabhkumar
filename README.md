@@ -3,10 +3,8 @@
 <img src="https://github.com/iam-sourabhkumar/iam-sourabhkumar/blob/main/banner.svg" alt="Sourabh Kumar, DevOps Engineer" width="100%"/>
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sourabhkrdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhkrdev/)
-[![Email](https://img.shields.io/badge/Email-kumarsourabh.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsourabh.dev@gmail.com)
-![Availability](https://img.shields.io/badge/Availability-Immediate_joiner-2EA043?style=for-the-badge)
+<br/>
+<br/>
 
 </div>
 
@@ -30,6 +28,9 @@ I'm a DevOps and DevSecOps engineer based in Bangalore. I design and automate Az
 <a href="https://maps.google.com/?q=Bangalore,India" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-ff9933?style=for-the-badge" alt="Location: Bangalore, India" />
 </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sourabhkrdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabhkrdev/)
+[![Email](https://img.shields.io/badge/Email-kumarsourabh.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsourabh.dev@gmail.com)
+![Availability](https://img.shields.io/badge/Availability-Immediate_joiner-2EA043?style=for-the-badge)
 </p>
 
 - 🔭 Currently working on exciting projects that push the boundaries of what's possible
