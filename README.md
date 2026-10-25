@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Dynamic Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:0078D4,100:00D2FF&height=260&section=header&text=SOURABH%20KUMAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%98%81%EF%B8%8F%20DevSecOps%20Engineer%20%7C%20Azure%20Cloud%20%7C%20Terraform%20%7C%20CI%2FCD%20Automation&descFontSize=19&descAlignY=58" width="100%" alt="Sourabh Kumar Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,50:0078D4,100:00D2FF&height=260&section=header&text=Sourabh%20Kumar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%98%81%EF%B8%8F%20DevSecOps%20Engineer%20%7C%20Azure%20Cloud%20%7C%20Terraform%20%7C%20CI%2FCD%20Automation&descFontSize=19&descAlignY=58" width="100%" alt="Sourabh Kumar Header Banner" />
 
 <!-- Dynamic Animated Typing Subtitle -->
 <a href="https://github.com/iam-sourabhkumar">
