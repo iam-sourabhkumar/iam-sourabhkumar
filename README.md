@@ -56,7 +56,7 @@
 
 > *"Automate the repeatable. Secure it early. Document what you learn."*
 
-I'm **Sourabh Kumar**, a **DevSecOps Engineer** based in **Bangalore, India**. I work at the intersection of **cloud infrastructure, automation, and security**: provisioning Azure environments with **Terraform**, building **CI/CD pipelines**, and embedding security into every phase of the delivery lifecycle instead of bolting it on at the end.
+I'm **Sourabh Kumar**, a **DevOps Engineer** based in **Bangalore, India**. I work at the intersection of **cloud infrastructure, automation, and security**: provisioning Azure environments with **Terraform**, building **CI/CD pipelines**, and embedding security into every phase of the delivery lifecycle instead of bolting it on at the end.
 
 I also build in public. My repositories are a mix of **production-style Terraform code** and **practical learning hubs** covering Linux, DevOps, and DevSecOps from zero to hero.
 
