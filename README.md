@@ -5,7 +5,7 @@
 
 <!-- Dynamic Animated Typing Subtitle -->
 <a href="https://github.com/iam-sourabhkumar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=00D2FF&center=true&vCenter=true&width=840&lines=DevSecOps+Engineer+%E2%80%A2+Bangalore%2C+India;Azure+Cloud+%26+Infrastructure+as+Code+with+Terraform;CI%2FCD+Pipelines+%E2%80%A2+Git+%26+GitHub+Workflows;Linux+Administration+%E2%80%A2+Shell+Automation;Shifting+Security+Left+in+Every+Pipeline" alt="Sourabh Kumar Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=00D2FF&center=true&vCenter=true&width=840&lines=DevOps+Engineer+%E2%80%A2+Bangalore%2C+India;Azure+Cloud+%26+Infrastructure+as+Code+with+Terraform;CI%2FCD+Pipelines+%E2%80%A2+Git+%26+GitHub+Workflows;Linux+Administration+%E2%80%A2+Shell+Automation;Shifting+Security+Left+in+Every+Pipeline" alt="Sourabh Kumar Typing SVG" />
 </a>
 
 <br />
